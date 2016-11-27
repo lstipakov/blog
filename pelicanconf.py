@@ -10,7 +10,7 @@ PATH = 'content'
 
 TIMEZONE = 'Europe/Helsinki'
 
-DEFAULT_LANG = u'fi'
+DEFAULT_LANG = 'fi'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -36,4 +36,26 @@ DEFAULT_PAGINATION = 10
 SITENAME="Lev Stipakov"
 DEFAULT_DATE = 'fs'
 
-THEME = "/home/lev/Projects/pelican-themes/blue-penguin"
+THEME = "../Projects/pelican-themes/blue-penguin"
+
+PLUGIN_PATHS = ["/home/lev/Projects/pelican-plugins"]
+PLUGINS = ['i18n_subsites',]
+
+I18N_SUBSITES = {
+    'ru': {
+        'SITENAME': 'Блог Льва Стипакова',
+    }
+}
+
+languages_lookup = {
+             'en': 'English',
+             'fi': 'Suomeksi',
+             'ru': 'По-русски'
+             }
+
+def lookup_lang_name(lang_code):
+    return languages_lookup[lang_code]
+
+JINJA_FILTERS = {
+             'lookup_lang_name': lookup_lang_name,
+             }

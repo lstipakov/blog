@@ -1,8 +1,10 @@
-Title: Poliittiset näkemykseni
+Title: Polaaaiittiset näkemykseni
 Date: 2016-11-27
 Category: Politiikka
+Lang: ru
+Slug: politics1
 
-Moi!
+Привет!
 
 Olen ehdolla kunnallisvaaleissa. Tässä on minun yleiset poliittiset näkemykseni UKK-muodossa. 
 
