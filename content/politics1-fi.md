@@ -6,17 +6,17 @@ Slug: politics1
 
 Moi!
 
-Olen ehdolla kunnallisvaaleissa. Tässä on minun yleiset poliittiset näkemykseni UKK-muodossa. 
+Nimeni on Lev Stipakov ja olen ehdolla kunnallisvaaleissa. Tässä on minun yleiset poliittiset näkemykseni UKK-muodossa. 
 
-Kuka olet?
-----------
+Kerro itsestasi
+---------------
 
-Lev Stipakov, 32 vuotias ohjelmistosuunnittelija, kotoisin Pietarista, Venäjältä. Itse asiassa kun synnyin, kaupungin nimi oli Leningrad ja maan nimi oli Sosialististen Neuvostotasavaltojen Liitto. Kun minusta tuli ekaluokkalainen vuonna 1991, Neuvostoliitto hajosi ja muuttui Venäjäksi. Samana vuonna Leningradista tuli Pietari. Kävin koulussa vuodesta 1991 vuoteen 2001, sen jälkeen pääsin yliopistoon ja valmistuin vuonna 2005 tekniikan kandidaatiksi. Muutin Suomeen vuonna 2009, olen ollut Suomen kansalainen vuodesta 2014. Harrastuksiini kuuluvat lukeminen, juoksu, hiihto, salibandy, avoimen lähdekoodin ohjelmointi ja yhdessäolo perheeni kanssa, johon kuuluvat vaimo ja pieni poikamme. 
+Olen 32 vuotias ohjelmistosuunnittelija, kotoisin Pietarista, Venäjältä. Itse asiassa kun synnyin, kaupungin nimi oli Leningrad ja maan nimi oli Sosialististen Neuvostotasavaltojen Liitto. Kun minusta tuli ekaluokkalainen vuonna 1991, Neuvostoliitto hajosi ja muuttui Venäjäksi. Samana vuonna Leningradista tuli Pietari. Koulun jälkeen pääsin yliopistoon ja valmistuin tekniikan kandidaatiksi. Muutin Suomeen vuonna 2009, sain kansalaisuuden vuonna 2014. Harrastuksiini kuuluvat lukeminen, juoksu, hiihto, salibandy, avoimen lähdekoodin ohjelmointi ja yhdessäolo perheeni kanssa, johon kuuluvat vaimo ja pieni poikamme.
 
 Mitä teet työksi?
 -----------------
 
-Olen ollut töissä IT alalla vuodesta 2003 erilaisissa rooleissa, peruskoodaarista tiimipäällikköön. Vuonna 2008 perustettiin Pietarissa yhteistyökumppaneiden kanssa kasvuyritys ja samana aikana aloin myös etsimään työpaikan Venäjän ulkopuolella. Yrittäjyyskokeiluni ei tuonut paljon rahaa, mutta auttoi saamaan ensimmäisen työpaikkani Suomesta. Sain työntekijän oleskeluluvan ja muutin Suomeen marraskuun ensimmäisenä päivänä vuonna 2009. Tällä hetkellä työskentelen ohjelmistosuunnittelijana Suomen johtavassa kyberturvallisuusfirmassa.
+Olen ollut töissä IT alalla vuodesta 2003 erilaisissa rooleissa, peruskoodaarista tiimipäällikköön. Vuonna 2008 perustin Pietarissa yhteistyökumppaneiden kanssa kasvuyritys. Yrittäjyyskokeiluni ei tuonut paljon rahaa, mutta auttoi saamaan työpaikan Suomesta. Sain työntekijän oleskeluluvan ja muutin Suomeen marraskuun ensimmäisenä päivänä vuonna 2009. Tällä hetkellä työskentelen ohjelmistosuunnittelijana Suomen johtavassa kyberturvallisuusfirmassa.
 
 Mikä sai sinut kiinnostumaan politiikasta?
 ------------------------------------------
