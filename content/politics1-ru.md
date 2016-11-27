@@ -1,4 +1,4 @@
-Title: Polaaaiittiset näkemykseni
+Title: Политические взгляды
 Date: 2016-11-27
 Category: Politiikka
 Lang: ru
@@ -6,20 +6,20 @@ Slug: politics1
 
 Привет!
 
-Olen ehdolla kunnallisvaaleissa. Tässä on minun yleiset poliittiset näkemykseni UKK-muodossa. 
+Я являюсь кандидатом на муниципальных выборах в Оулу. Вот мои поличитеские взгляды в формате вопрос - ответ.
 
-Kuka olet?
-----------
+Кто ты?
+-------
 
-Lev Stipakov, 32 vuotias ohjelmistosuunnittelija, kotoisin Pietarista, Venäjältä. Itse asiassa kun synnyin, kaupungin nimi oli Leningrad ja maan nimi oli Sosialististen Neuvostotasavaltojen Liitto. Kun minusta tuli ekaluokkalainen vuonna 1991, Neuvostoliitto hajosi ja muuttui Venäjäksi. Samana vuonna Leningradista tuli Pietari. Kävin koulussa vuodesta 1991 vuoteen 2001, sen jälkeen pääsin yliopistoon ja valmistuin vuonna 2005 tekniikan kandidaatiksi. Muutin Suomeen vuonna 2009, olen ollut Suomen kansalainen vuodesta 2014. Harrastuksiini kuuluvat lukeminen, juoksu, hiihto, salibandy, avoimen lähdekoodin ohjelmointi ja yhdessäolo perheeni kanssa, johon kuuluvat vaimo ja pieni poikamme. 
+Лев Стипаков, 32 года, программист, родился в Санкт-Петербурге, Россия. На самом деле тогда город еще назывался Ленинград, а страна - Союз Советских Социалистических Республик. Когдя я пошёл в первый класс в 1991 году, СССР расспался и стал Россией. В тот же год Ленинград стал Санкт-Петербургом. Хотил в школу с 1991 по 2001 год, после чего поступил в университет и в 2005 году получил степень бакалавра техники и технологий. Переехал в Финляндию в 2009 году, с 2014 года - гражданин Финляндии. Мои увлечения - чтение, пробежки, лыжи, флорбол, разработка программ с открытым кодом а также проведение времени с семьей - женой и сыном.
 
-Mitä teet työksi?
------------------
+Чем занимаешься?
+----------------
 
-Olen ollut töissä IT alalla vuodesta 2003 erilaisissa rooleissa, peruskoodaarista tiimipäällikköön. Vuonna 2008 perustettiin Pietarissa yhteistyökumppaneiden kanssa kasvuyritys ja samana aikana aloin myös etsimään työpaikan Venäjän ulkopuolella. Yrittäjyyskokeiluni ei tuonut paljon rahaa, mutta auttoi saamaan ensimmäisen työpaikkani Suomesta. Sain työntekijän oleskeluluvan ja muutin Suomeen marraskuun ensimmäisenä päivänä vuonna 2009. Tällä hetkellä työskentelen ohjelmistosuunnittelijana Suomen johtavassa kyberturvallisuusfirmassa.
+Я работаю в сфере IT с 2003 года, занимал должности от младшего программиста до тим-лидера. В 2008 году основал с партнёрами стартап, а так же начал искать работу за пределами России. Предпринимательский опыт не принес много денег, но помог получить рабочее место в Финляндии. ПОлучил разрешение на работу и переехал в Финляндию в первый день ноября 2009 года. В данный момент занимаю должность ведущего разработчика в ведущей финской компании в сфере кибербезопасности.
 
-Mikä sai sinut kiinnostumaan politiikasta?
-------------------------------------------
+Как ты стал интересоваться политикой?
+-------------------------------------
 
 Kaksi asiaa - Ukrainan kriisi ja Perussuomalaiset.
 
