@@ -1,5 +1,5 @@
 Title: Poliittiset näkemykseni
-Date: 2016-11-27 19:28
+Date: 2016-11-27
 Category: Politiikka
 
 Moi!

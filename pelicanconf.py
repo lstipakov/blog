@@ -20,14 +20,13 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('Blogini puheenvuorossa', 'http://levstipakov.puheenvuoro.uusisuomi.fi/'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('twitter', 'http://twitter.com/lstipakov'),
+          ('facebook', 'http://facebook.com/lstipakov'),
+          ('linkedin', 'https://fi.linkedin.com/in/lstipakov'),
+          ('github', 'http://github.com/lstipakov'),)
 
 DEFAULT_PAGINATION = 10
 
@@ -35,3 +34,6 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 SITENAME="Lev Stipakov"
+DEFAULT_DATE = 'fs'
+
+THEME = "/home/lev/Projects/pelican-themes/blue-penguin"
