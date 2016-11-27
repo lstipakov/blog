@@ -16,7 +16,7 @@ Olen 32 vuotias ohjelmistosuunnittelija, kotoisin Pietarista, Venäjältä. Itse
 Mitä teet työksi?
 -----------------
 
-Olen ollut töissä IT alalla vuodesta 2003 erilaisissa rooleissa, peruskoodaarista tiimipäällikköön. Vuonna 2008 perustin Pietarissa yhteistyökumppaneiden kanssa kasvuyritys. Yrittäjyyskokeiluni ei tuonut paljon rahaa, mutta auttoi saamaan työpaikan Suomesta. Sain työntekijän oleskeluluvan ja muutin Suomeen marraskuun ensimmäisenä päivänä vuonna 2009. Tällä hetkellä työskentelen ohjelmistosuunnittelijana Suomen johtavassa kyberturvallisuusfirmassa.
+Olen ollut töissä IT alalla vuodesta 2003 erilaisissa rooleissa, peruskoodaarista tiimipäällikköön. Vuonna 2008 perustin Pietarissa yhteistyökumppaneiden kanssa kasvuyritys. Yrittäjyyskokeiluni ei tuonut paljon rahaa, mutta auttoi saamaan työpaikan Suomesta. Tällä hetkellä työskentelen ohjelmistosuunnittelijana Suomen johtavassa kyberturvallisuusfirmassa.
 
 Mikä sai sinut kiinnostumaan politiikasta?
 ------------------------------------------
