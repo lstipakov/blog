@@ -8,7 +8,7 @@ Slug: politics1
 
 Hei!
 
-Nimeni on Lev Stipakov ja olen ehdolla Oulun kunnallisvaaleissa. Tässä on minun yleiset poliittiset näkemykseni UKK-muodossa. 
+Nimeni on Lev Stipakov ja olen ehdolla Oulun kunnallisvaaleissa. Tässä ovat minun yleiset poliittiset näkemykseni UKK-muodossa. 
 
 Kerro itsestäsi
 ---------------
