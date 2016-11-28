@@ -37,7 +37,7 @@ Vain Perussuomalaiset uskaltavat puhua ongelmasta ääneen.
 Eikö persut ovat maahanmuuttovastaisia ja rasisteja? 
 ----------------------------------------------------
 
-Olen itse kuullut sellaisia väitteitä aika paljon. Valitettavasti Suomen mediat eivät aina uutisoi perussuomalaisista objektiivisesti ja puolueettomasti ja täten ruokkivat ennakkoluuloja. Seuratessani PS-politiikkaa sisältäpäin voin todeta, että eivät PS-Nuoret eivätkä Perussuomalaiset ole missään nimessä maahanmuuttovastaisia eikä rasisteja. Olen ylpeä siitä että meidän jäsenkuntaamme kuuluu isänmaallisia ihmisia monista eri maista ja taustoista, muun muassa afrikkalaistaustaisia ja arabitaustaisia. Meitä kaikki yhdistää rakkaus Suomea kohtaan ja halu ylläpitää ja parantaa tätä hienoa yhteiskuntaamme. Ja tämä fakta, että allekirjoittanut, venäläistaustainen on ehdolla kunnallisvaaleista perussuomalaisten listalla, puhuu itsestään.
+Olen itse kuullut sellaisia väitteitä aika paljon. Valitettavasti Suomen mediat eivät aina uutisoi perussuomalaisista objektiivisesti ja puolueettomasti ja täten ruokkivat ennakkoluuloja. Seuratessani PS-politiikkaa sisältäpäin voin todeta, että eivät PS-Nuoret eivätkä Perussuomalaiset ole missään nimessä maahanmuuttovastaisia eikä rasisteja. Olen ylpeä siitä että meidän jäsenkuntaamme kuuluu isänmaallisia ihmisiä monista eri maista ja taustoista, muun muassa afrikkalaistaustaisia ja arabitaustaisia. Meitä kaikki yhdistää rakkaus Suomea kohtaan ja halu ylläpitää ja parantaa tätä hienoa yhteiskuntaamme. Ja tämä fakta, että allekirjoittanut, venäläistaustainen on ehdolla kunnallisvaaleista perussuomalaisten listalla, puhuu itsestään.
 
 Onko maahanmuutto ainoa syy, miksi olet Perussuomalaisen?
 ---------------------------------------------------------
