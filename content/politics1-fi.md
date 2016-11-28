@@ -74,8 +74,6 @@ Ensiksi käyttäisin termä “venäläistaustaisia” tai “venäläiskielisi�
 
 “Aina kun joku humalainen tulee haukkumaan, eikä hyväksy minua suomalaiseksi, sanon että hän on saattanut olla vahinko, josta on tullut suomalainen jossain auton takapenkillä baari-illan jälkeen. Minä olen tehnyt valintani itse ja päättänyt olla suomalainen.”
 
-Ei mulla muuta.
-
 Miksi sinua pitäisi äänestää?
 -----------------------------
 
