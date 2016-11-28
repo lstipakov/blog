@@ -70,7 +70,7 @@ Huomaan, että olen suomalainen ja presidenttini on Sauli Niinistö eikä Putin.
 Ajatko siis venäläisten intressejä?
 -----------------------------------
 
-Ensiksi käyttäisin termä “venäläistaustaisia” tai “venäläiskielisiä”. Toiseksi - ajan vain yhden eturyhmän intressiä. Tämä ryhmä on Suomen kansa, johon saattaa kuulua - yllätys - myös venäjänkielisiä. Tämä tausta ei missään nimessä tee meistä vähemmän isänmaallisia. Haluan siteerata Keith Armstrongin sanoja:
+Ensiksi käyttäisin termiä “venäläistaustaisia” tai “venäläiskielisiä”. Toiseksi - ajan vain yhden eturyhmän intressiä. Tämä ryhmä on Suomen kansa, johon saattaa kuulua - yllätys - myös venäjänkielisiä. Tämä tausta ei missään nimessä tee meistä vähemmän isänmaallisia. Haluan siteerata Keith Armstrongin sanoja:
 
 “Aina kun joku humalainen tulee haukkumaan, eikä hyväksy minua suomalaiseksi, sanon että hän on saattanut olla vahinko, josta on tullut suomalainen jossain auton takapenkillä baari-illan jälkeen. Minä olen tehnyt valintani itse ja päättänyt olla suomalainen.”
 
