@@ -4,6 +4,8 @@ Category: Politiikka
 Lang: fi
 Slug: politics1
 
+![](https://raw.githubusercontent.com/lstipakov/blog/master/content/jytkynaattori.jpg)
+
 Hei!
 
 Nimeni on Lev Stipakov ja olen ehdolla Oulun kunnallisvaaleissa. Tässä on minun yleiset poliittiset näkemykseni UKK-muodossa. 
