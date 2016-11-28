@@ -11,33 +11,33 @@ Nimeni on Lev Stipakov ja olen ehdolla Oulun kunnallisvaaleissa. Tässä on minu
 Kerro itsestasi
 ---------------
 
-Olen 32 vuotias ohjelmistosuunnittelija, kotoisin Pietarista, Venäjältä. Itse asiassa kun synnyin, kaupungin nimi oli Leningrad ja maan nimi oli Sosialististen Neuvostotasavaltojen Liitto. Kun minusta tuli ekaluokkalainen vuonna 1991, Neuvostoliitto hajosi ja muuttui Venäjäksi. Samana vuonna Leningradista tuli Pietari. Koulun jälkeen pääsin yliopistoon ja valmistuin tekniikan kandidaatiksi. Muutin Suomeen vuonna 2009, sain kansalaisuuden vuonna 2014. Harrastuksiini kuuluvat lukeminen, juoksu, hiihto, salibandy, avoimen lähdekoodin ohjelmointi ja yhdessäolo perheeni kanssa, johon kuuluvat vaimo ja pieni poikamme.
+Olen 32-vuotias ohjelmistosuunnittelija, kotoisin Pietarista, Venäjältä. Itse asiassa kun synnyin, kaupungin nimi oli Leningrad ja maan nimi oli Sosialististen Neuvostotasavaltojen Liitto. Kun minusta tuli ekaluokkalainen vuonna 1991, Neuvostoliitto hajosi ja muuttui Venäjäksi. Samana vuonna Leningradista tuli Pietari. Koulun jälkeen pääsin yliopistoon ja valmistuin tekniikan kandidaatiksi. Muutin Suomeen vuonna 2009, sain kansalaisuuden vuonna 2014. Harrastuksiini kuuluvat lukeminen, juoksu, hiihto, salibandy, avoimen lähdekoodin ohjelmointi ja yhdessäolo perheeni kanssa, johon kuuluvat vaimo ja pieni poikamme.
 
 Mitä teet työksi?
 -----------------
 
-Olen ollut töissä IT alalla vuodesta 2003 erilaisissa rooleissa, peruskoodaarista tiimipäällikköön. Vuonna 2008 perustin Pietarissa yhteistyökumppaneiden kanssa kasvuyritys. Yrittäjyyskokeiluni ei tuonut paljon rahaa, mutta auttoi saamaan työpaikan Suomesta. Tällä hetkellä työskentelen ohjelmistosuunnittelijana Suomen johtavassa kyberturvallisuusfirmassa.
+Olen ollut töissä IT-alalla vuodesta 2003 erilaisissa rooleissa, peruskoodaarista tiimipäällikköön. Vuonna 2008 perustin Pietarissa yhteistyökumppaneiden kanssa kasvuyrityksen. Yrittäjyyskokeiluni ei tuonut paljon rahaa, mutta auttoi saamaan työpaikan Suomesta. Tällä hetkellä työskentelen ohjelmistosuunnittelijana Suomen johtavassa kyberturvallisuusfirmassa.
 
 Mikä sai sinut kiinnostumaan politiikasta?
 ------------------------------------------
 
 Kaksi asiaa - Ukrainan kriisi ja Perussuomalaiset.
 
-Olin, kuten nyt on tapa sanoa, “putinisti” vuodesta 2014 saakka. Ukrainan kriisi on minulle tavallaan “herätys”. Oli vaikea ymmärtää, miten koko kansalle ja maailmalle voi valehdella päin naamaa ja perättömästi väittää, että Kiovassa on “fasistinen junta” ja venäjänkieliselle väestölle kohdistuu “uhka”. Itä-Ukrainan sodasta on tullut vuotava haava, joka tulee vaikuttamaan kahden slaavilaisen kansojen väleihin vuosia.
+Olin, kuten nyt on tapa sanoa, “putinisti” vuodesta 2014 saakka. Ukrainan kriisi on minulle tavallaan “herätys”. Oli vaikea ymmärtää, miten koko kansalle ja maailmalle voi valehdella päin naamaa ja perättömästi väittää, että Kiovassa on “fasistinen juntta” ja venäjänkieliselle väestölle kohdistuu “uhka”. Itä-Ukrainan sodasta on tullut vuotava haava, joka vaikuttaa kahden slaavilaisen kansojen väleihin vuosia.
 
 Silloin tajusin, että poliitikkojen tekemistä virheistä kansalaiset maksavat omalla hyvinvoinnilla, terveydellä ja pahimmassa tapauksessa myös hengellä.
  
 Ja miksi Perussuomalaiset?
 --------------------------
 
-Venäjältä tullena minua ihmetytti, minkä takia Suomi ottaa vastaan elätettäväksi ihmisiä eri maista. Onko Suomella ollut siirtokuntia, onko Suomi osallistunut orjakauppaan? Onko Suomi pommittanut Irakin ja aiheuttanut luvuttomia kärsimyksiä? Ei, ei ja ei. Olen sitä mieltä, että turvapaikanhakijoiden vastaanotto Suomessa ei ole kaikista tehokkain tapa käyttää rahojamme ihmisten auttamiseksi ja emme auta oikeasti hädässä olevia ihmisiä. Lähi-Idän ja Suomen on paljon turvallisia maita, miksi mikään muu välimaa ei kelvannut jos olet pakenemassa sodasta? Paljon tehokkaammin on auttaa paikan päällä. Sen lisäksi turvapaikanhakijoiden tulon takia sisäinen turvallisuustilanne on valitettavasti huonontunut. 
+Venäjältä tulleena minua ihmetytti, minkä takia Suomi ottaa vastaan elätettäväksi ihmisiä eri maista. Onko Suomella ollut siirtokuntia, onko Suomi osallistunut orjakauppaan? Onko Suomi pommittanut Irakin ja aiheuttanut luvuttomia kärsimyksiä? Ei, ei ja ei. Olen sitä mieltä, että turvapaikanhakijoiden vastaanotto Suomessa ei ole kaikista tehokkain tapa käyttää rahojamme ihmisten auttamiseksi ja emme auta oikeasti hädässä olevia ihmisiä. Lähi-Idän ja Suomen on paljon turvallisia maita, miksi mikään muu välimaa ei kelvannut jos olet pakenemassa sodasta? Paljon tehokkaammin on auttaa paikan päällä. Sen lisäksi turvapaikanhakijoiden tulon takia sisäinen turvallisuustilanne on valitettavasti huonontunut. 
 
-Vain Perussuomalaiset uskaltavat sanoa ongelmasta äänen.
+Vain Perussuomalaiset uskaltavat puhua ongelmasta ääneen.
 
 Eikö persut ovat maahanmuuttovastaisia ja rasisteja? 
 ----------------------------------------------------
 
-Olen itse kuullut sellaisia väitteitä aika paljon. Valitettavasti Suomen mediat eivät aina uutisoi perussuomalaisista objektiivisesti ja puolueettomasti ja täten ruokkivat ennakkoluuloja. Seuratessani PS politiikkaa sisältäpäin voin todeta, että ei PS-Nuoret eivätkä Perussuomalaiset ovat missään nimessä maahanmuuttovastaisia eikä rasisteja. Olen ylpeä siitä että meidän jäsenkuntaamme kuuluu isänmaalliset ihmiset monista eri maista ja taustoista, muun muassa afrikkalaistaustaisia ja arabitaustaisia. Meitä kaikki yhdistää rakkaus Suomea kohtaan ja halu ylläpitää ja parantaa tätä hienoa yhteiskuntamme. Ja tämä fakta, että allekirjoittanut, venäläistaustainen on ehdolla kunnallisvaaleista perussuomalaisten listalla, puhuu itsestään. We will Make Finland Great Again together!
+Olen itse kuullut sellaisia väitteitä aika paljon. Valitettavasti Suomen mediat eivät aina uutisoi perussuomalaisista objektiivisesti ja puolueettomasti ja täten ruokkivat ennakkoluuloja. Seuratessani PS-politiikkaa sisältäpäin voin todeta, että eivät PS-Nuoret eivätkä Perussuomalaiset ole missään nimessä maahanmuuttovastaisia eikä rasisteja. Olen ylpeä siitä että meidän jäsenkuntaamme kuuluu isänmaallisia ihmisia monista eri maista ja taustoista, muun muassa afrikkalaistaustaisia ja arabitaustaisia. Meitä kaikki yhdistää rakkaus Suomea kohtaan ja halu ylläpitää ja parantaa tätä hienoa yhteiskuntaamme. Ja tämä fakta, että allekirjoittanut, venäläistaustainen on ehdolla kunnallisvaaleista perussuomalaisten listalla, puhuu itsestään.
 
 Onko maahanmuutto ainoa syy, miksi olet Perussuomalaisen?
 ---------------------------------------------------------
@@ -61,7 +61,9 @@ Sen lisäksi euron kuuluminen on minusta virhe. Emme nyt pysty devalvoimaan omaa
 Mitä mieltä olet Putinista?
 ---------------------------
 
-Olen suomalainen ja presidenttini on Sauli Niinistö eikä Putin. Niinistö hoitaa hommansa mainiosti.
+Minusta Putinin ensimmäinen ja toinen kausi olivat suhteellisesti OK - hyvinvointi kasvoi hyvällä vauhdilla, välit lännen ja Ukrainan kanssa oli hyvät ja viimeaikaista kiihkonationalismia ja puheista “kansanpettureista” ei ollut näkyvissä poliittisessa ilmapiirissä. Putinin olisi pitänyt lähteä vallasta pois vaikka jonkin yhtiön lautakunnalle, kiertää maailmaa ja pitää puheita siitä, miten hän on onnistunut kääntämään Venäjä-laivan parempaan suuntaan. Mutta kun on toisin kävi.
+
+Huomaan, että olen suomalainen ja presidenttini on Sauli Niinistö eikä Putin. Niinistö hoitaa hommansa mainiosti.
 
 Ajatko siis venäläisten intressejä?
 -----------------------------------
