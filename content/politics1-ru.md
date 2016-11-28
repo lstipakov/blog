@@ -4,75 +4,77 @@ Category: Politiikka
 Lang: ru
 Slug: politics1
 
+![](https://raw.githubusercontent.com/lstipakov/blog/master/content/jytkynaattori.jpg)
+
 Привет!
 
-Я - Лев Стипаков, кандидат на муниципальных выборах в Оулу. Вот мои поличитеские взгляды в формате вопрос - ответ.
+Я - Лев Стипаков, кандидат на муниципальных выборах в Оулу. Вот мои политические взгляды в формате вопрос - ответ.
 
 Расскажи о себе?
 ----------------
 
-Мне 32 года, программист, родился в Санкт-Петербурге, Россия. На самом деле тогда город еще назывался Ленинград, а страна - Союз Советских Социалистических Республик. Когдя я пошёл в первый класс в 1991 году, СССР распался и стал Россией. В тот же год Ленинград стал Санкт-Петербургом. В 2001 году поступил в университет и в 2005 году получил степень бакалавра техники и технологий. Переехал в Финляндию в 2009 году, в 2014 получил гражданство. Мои увлечения - чтение, пробежки, лыжи, флорбол, разработка программ с открытым кодом а также проведение времени с семьей - женой и сыном.
+Мне 32 года, программист, родился в Санкт-Петербурге, Россия. Когда я пошёл в первый класс в 1991 году, СССР распался и стал Россией.  После школы поступил в институт и получил степень бакалавра технических наук. Переехал в Финляндию в 2009 году, в 2014 получил гражданство. Мои увлечения - чтение, пробежки, лыжи, флорбол, разработка программ с открытым кодом а также проведение времени с семьей - женой и сыном.
 
 В какой сфере работаешь?
 ------------------------
 
-Я работаю в сфере IT с 2003 года, занимал должности от младшего программиста до тим-лидера. В 2008 году основал с партнёрами стартап. Предпринимательский опыт не принес много денег, но помог получить рабочее место в Финляндии. Получил разрешение на работу и переехал в Финляндию в первый день ноября 2009 года. Сейчас я занимаю должность старшего разработчика в ведущей финской компании в сфере кибербезопасности.
+Я работаю в сфере IT с 2003 года, занимал должности от младшего программиста до тим-лидера. В 2008 году основал с партнерами стартап. Предпринимательский опыт помог найти работу в Финляндии. Сейчас я занимаю должность старшего разработчика в ведущей финской компании в сфере кибербезопасности.
 
 Почему ты стал интересоваться политикой?
 ----------------------------------------
 
-Kaksi asiaa - Ukrainan kriisi ja Perussuomalaiset.
+По двум причинам - украинский кризис и Истинные Финны (Perussuomalaiset). 
 
-Olin, kuten nyt on tapa sanoa, “putinisti” vuodesta 2014 saakka. Ukrainan kriisi on minulle tavallaan “herätys”. Oli vaikea ymmärtää, miten koko kansalle ja maailmalle voi valehdella päin naamaa ja perättömästi väittää, että Kiovassa on “fasistinen junta” ja venäjänkieliselle väestölle kohdistuu “uhka”. Itä-Ukrainan sodasta on tullut vuotava haava, joka tulee vaikuttamaan kahden slaavilaisen kansojen väleihin vuosia.
+Я был, как принято сейчас говорить, “путинистом” до 2014 года. Украинский кризис был для меня “пробуждением”. Было сложно понять, как всему народу и миру можно врать в лицо и безосновательно заявлять, что в Киеве - “фашистская хунта” и русскоязычному населению что-то угрожает.  Война на востоке Украины стала кровоточащей раной, которая будет влиять на отношения двух славянских народов многие годы.
 
-Silloin tajusin, että poliitikkojen tekemistä virheistä kansalaiset maksavat omalla hyvinvoinnilla, terveydellä ja pahimmassa tapauksessa myös hengellä.
- 
-Ja miksi Perussuomalaiset?
---------------------------
+Тогда мне стало очевидно, что за ошибки политиков граждане расплачиваются своим благополучием, здоровьем и в худшем случае жизнями.
 
-Venäjältä tullena minua ihmetytti, minkä takia Suomi ottaa vastaan elätettäväksi ihmisiä eri maista. Onko Suomella ollut siirtokuntia, onko Suomi osallistunut orjakauppaan? Onko Suomi pommittanut Irakin ja aiheuttanut luvuttomia kärsimyksiä? Ei, ei ja ei. Olen sitä mieltä, että turvapaikanhakijoiden vastaanotto Suomessa ei ole kaikista tehokkain tapa käyttää rahojamme ihmisten auttamiseksi ja emme auta oikeasti hädässä olevia ihmisiä. Lähi-Idän ja Suomen on paljon turvallisia maita, miksi mikään muu välimaa ei kelvannut jos olet pakenemassa sodasta? Paljon tehokkaammin on auttaa paikan päällä. Sen lisäksi turvapaikanhakijoiden tulon takia sisäinen turvallisuustilanne on valitettavasti huonontunut. 
+А почему Истинные Финны?
+------------------------
 
-Vain Perussuomalaiset uskaltavat sanoa ongelmasta äänen.
+Как приехавшего из России меня удивляло, почему Финляндия принимает к себе на иждивение людей из разных стран. У Финляндии были колонии? Она участвовала в работорговле? Бомбила ли Финляндия Ирак и тем самым принесла бесчисленные страдания? Нет, нет и нет. Я думаю, что прием Финляндией беженцев не является самым эффективным способом траты наших денег для помощи людям, а также мы не помогаем действительно находящимся в беде. Между Ближним востоком и Финляндией много безопасных стран, почему никакая страна не подходит, если они действительно бегут от войны? Гораздо более эффективнее помогать на месте. К тому же из за наплыва беженцев ситуация с преступностью, к сожалению, ухудшилась.
 
-Eikö persut ovat maahanmuuttovastaisia ja rasisteja? 
-----------------------------------------------------
+Лишь Истинные Финны осмеливаются говорить о проблеме вслух. 
 
-Olen itse kuullut sellaisia väitteitä aika paljon. Valitettavasti Suomen mediat eivät aina uutisoi perussuomalaisista objektiivisesti ja puolueettomasti ja täten ruokkivat ennakkoluuloja. Seuratessani PS politiikkaa sisältäpäin voin todeta, että ei PS-Nuoret eivätkä Perussuomalaiset ovat missään nimessä maahanmuuttovastaisia eikä rasisteja. Olen ylpeä siitä että meidän jäsenkuntaamme kuuluu isänmaalliset ihmiset monista eri maista ja taustoista, muun muassa afrikkalaistaustaisia ja arabitaustaisia. Meitä kaikki yhdistää rakkaus Suomea kohtaan ja halu ylläpitää ja parantaa tätä hienoa yhteiskuntamme. Ja tämä fakta, että allekirjoittanut, venäläistaustainen on ehdolla kunnallisvaaleista perussuomalaisten listalla, puhuu itsestään. We will Make Finland Great Again together!
+А разве Истинные Финны не против иностранцев и расисты?
+-------------------------------------------------------
 
-Onko maahanmuutto ainoa syy, miksi olet Perussuomalaisen?
----------------------------------------------------------
+Я сам часто слышал такие заявления. К сожалению, СМИ не всегда освещают Истинных Финнов объективно и беспристрастно и таким образом поддерживают стереотипы. Следя за политикой Истинных Финнов изнутри, могу заявить, что ни молодежное отделение ни Истинные Финны ни в коем случае не против иностранцев и не расисты. Я горд тем, что среди наших членов есть патриоты из многих стран и разного происхождения, в том числе африканцы и арабы. Нас всех объединяет любовь к Финляндии и желание сохранить и улучшить наше замечательное общество. И тот факт, что я, русскоговорящий, являюсь кандидатом на выборах в списке Истинных Финнов - говорит сам за себя.
 
-Maahanmuutto on tärkeä mutta ei ainoa syy. Kriittinen suhtautuminen EU:hun, kielivapaus, uskottava oma puolustus, sosiaalinen oikeudenmukaisuus, kansallismielisyys - myös nämä asiat ovat minulle tärkeitä.
+Иммиграция - единственная причина, по которой ты в партии Истинные Финны?
+-------------------------------------------------------------------------
 
-Kansallismielisyys?
--------------------
+Иммиграция - это важная, но не единственная причина. Критическое отношение к ЕС, отмена обязательного шведского языка, свои силы самообороны, социальная справедливость, национализм - все перечисленное мне также важно.
 
-Vaikka en ole tässä maassa syntynyt, pidän itseäni suomalaisena. Suomi on hieno maa ja se ei johdu luonnonvaroista, säästä tai hyvistä rauhantahtoisista naapurimaista. Pikemmin se johtuu suomalaisesta kulttuurista, johon kuuluu rehellisyys, kova työnteko, sisu, huolehtiminen kaikista yhteiskunnan jäsenistä. Minä en halua, että Suomesta tulee Venäjä tai joku Afrikan tai Lähi-Idän maa. Suomalainen kulttuuri on säilytettävä - se on sekä suomalaisten että tänne tulevien maahanmuuttajien intressissä. 
+Национализм?
+------------
 
-Tähän on pakko lisätä, että suomalaisuus ei rajoitu geeneihin. Suomalaiseksi voisi tulla syntyperästä riippumatta. Jokainen, joka asuu Suomessa, puhuu suomea, kunnioittaa Suomen lakeja, tapoja ja kokee olevansa suomalainen on suomalainen.
+Хотя я не родился в этой стране, считаю себя финном. Финляндия - отличная страна, и это не из-за природных богатств, климата или хороших, стремящихся к миру соседей. Скорее это всё из-за финской культуры, куда относится честность, трудолюбие, упорство, забота о каждом члене общества. Я не хочу, чтобы Финляндия стала Россией или какой-нибудь африканской или ближневосточной страной. Финскую культуру необходимо сохранить - это в интересах и финнов и сюда приезжающих мигрантов.
 
-Mikä vika EU:ssa on?
---------------------
+Быть финном - это не заложено в генах. Финном можно стать независимо от происхождения. Любой, живущий в Финляндии, говорящий на финском языке, соблюдающий финские законы и обычаи, считающий себя финном - это финн.
 
-Vika on siinä, että EU kehittyy liittovaltioksi, jossa Suomella ei ole riittävästi valtaa puolustaa omia intressejä. Suomessa asuu 5.4 miljoona asukasta, Saksassa, Ranskassa ja muissa maissa kymmeniä miljoonia. Meillä on vain 13 edustajaa EU-parlamentissa, jossa kokoontuu yhteensä 751. Käytäntö on osoittanut, että siellä tehdyt päätökset ovat usein Suomen etujen vastaisia, kuten esimerkiksi lainojen antaminen Kreikalle (käytännössä pelastettiin saksalaisia ja ranskalaisia pankkeja), asedirektiivi tai pakotekierre Venäjän kanssa.
+Что не так с ЕС?
+----------------
 
-Sen lisäksi euron kuuluminen on minusta virhe. Emme nyt pysty devalvoimaan omaa valuuttansa auttaksemme maastaviejiä tai stimuloidaksemme kysyntää paikallisiin tavaroihiin.
+Проблема в том, что ЕС превращается в союзное государство, в котором у Финляндии недостаточно влияния для отстаивания своих интересов. В Финляндии живут 5.4 миллиона человек, в Германии, Франции и других странах - десятки миллионов. У нас всего 13 депутатов в европарламенте из 751. Практика показала, что принятые там решения часто противоречат интересам Финляндии, как например кредиты Греции (на практике деньги ушли на спасение немецких и французских банков), директива о стрелковом оружии или санкционный конфликт с Россией.
 
-Mitä mieltä olet Putinista?
----------------------------
+Также членство в зоне евро, на мой взгляд, является ошибкой. Мы не можем сейчас девальвировать свою валюту для помощи экспорту или стимулирования спроса на местные товары.
 
-Olen suomalainen ja presidenttini on Sauli Niinistö eikä Putin. Niinistö hoitaa hommansa mainiosti.
+Что думаешь о Путине?
+---------------------
 
-Ajatko siis venäläisten intressejä?
------------------------------------
+Я думаю, что первый и второй срок Путина были в целом успешными. Благосостояние росло высокими темпами, отношения с западом и Украиной были хорошими и в политической жизни не было агрессивного национализма или “национал-предателей”. Путину стоило уйти из власти, например, в совет директоров какой-нибудь компании, ездить по миру и читать лекции о том, как у него получилось направить развитие России в правильную сторону. Но получилось по-другому.
 
-Ensiksi käyttäisin termä “venäläistaustaisia” tai “venäläiskielisiä”. Toiseksi - ajan vain yhden eturyhmän intressiä. Tämä ryhmä on Suomen kansa, johon saattavat kuulua - yllätys - myös venäjänkielisiä. Tämä tausta ei missään nimessä tee meistä vähemmän isänmaallisia. Haluan siteerata Keith Armstrongin sanoja:
+Замечу, что я - финн и мой президент - Саули Ниинистё. Он прекрасно справляется со своими обязанностями.
 
-“Aina kun joku humalainen tulee haukkumaan eikä hyväksy minua suomalaiseksi, sanon että hän on saattanut olla vahinko, josta on tullut suomalainen jossain auton takapenkillä baari-illan jälkeen. Minä olen tehnyt valintani itse ja päättänyt olla suomalainen.”
+Планируешь отстаивать интересы русских?
+---------------------------------------
 
-Ei mulla muuta.
+Во-первых, я бы использовал термин “русскоговорящие” или “русскоязычные”. Во вторых - я отстаиваю интересы только одной группы - это финский народ, куда могут входить - сюрприз - русскоговорящие. Происхождение не делает нас менее патриотичными. Хочу процитировать слова Кейта Армстронга:
 
-Miksi sinua pitäisi äänestää?
------------------------------
+“Каждый раз, когда какой-то пьяный ворчит, что не принимает меня как финна, говорю, что он мог быть случайностью, из которой получился финн на заднем сидении машины после вечера в баре. Я сделал свои выбор сам и решил стать финном.”
 
-Olen rehellinen, itsenäisesti ja kriittisesti ajatteleva nuori poliitikko. Osaan tuoda esille vaikeita kysymyksiä. Katson edukseni ulkomaalaistaustani, koska sen myötä pystyn näkemään asioita hieman toisesta näkökulmasta. Tykkään oppia uusia asioita ja ottaa haasteita vastaan.
+Почему за тебя стоит голосовать?
+--------------------------------
+
+Я - честный, независимо и критически думающий молодой политик. Не боюсь обсуждать сложные темы. Считаю преимуществом свое иностранное происхождение, так как благодаря ему могу видеть вещи с немного другой точки зрения. Люблю учить новое и принимать вызовы.
