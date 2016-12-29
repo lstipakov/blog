@@ -1,7 +1,8 @@
 Title: Размышления о развитии Оулу
 Date: 2016-12-22
-Category: Политика, Оулу, Выборы
+Category: Политика
 Lang: ru
+Tags: Политика,Оулу,Выборы 
 Slug: oulu1
 
 ![](https://raw.githubusercontent.com/lstipakov/blog/master/content/jytkynaattori.jpg)

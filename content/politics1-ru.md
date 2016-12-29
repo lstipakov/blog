@@ -2,6 +2,7 @@ Title: Политические взгляды
 Date: 2016-11-27
 Category: Politiikka
 Lang: ru
+Tags: Политика
 Slug: politics1
 
 ![](https://raw.githubusercontent.com/lstipakov/blog/master/content/jytkynaattori.jpg)

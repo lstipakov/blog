@@ -1,6 +1,7 @@
 Title: Poliittiset näkemykseni
 Date: 2016-11-27
 Category: Politiikka
+Tags: Politiikka
 Lang: fi
 Slug: politics1
 

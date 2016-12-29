@@ -39,11 +39,10 @@ DEFAULT_DATE = 'fs'
 THEME = "../Projects/pelican-themes/blue-penguin"
 
 PLUGIN_PATHS = ["/home/lev/Projects/pelican-plugins"]
-PLUGINS = ['i18n_subsites',]
+PLUGINS = ['i18n_subsites', 'share_post']
 
 I18N_SUBSITES = {
     'ru': {
-        'SITENAME': 'Блог Льва Стипакова',
     }
 }
 
@@ -59,3 +58,5 @@ def lookup_lang_name(lang_code):
 JINJA_FILTERS = {
              'lookup_lang_name': lookup_lang_name,
              }
+
+GOOGLE_ANALYTICS = "UA-88155213-1"

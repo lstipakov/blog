@@ -4,6 +4,7 @@ Category: Politiikka
 Tags: Politiikka, Oulu, Kunnallisvaalit
 Lang: fi
 Slug: oulu1
+share_post: True
 
 ![](https://raw.githubusercontent.com/lstipakov/blog/master/content/jytkynaattori.jpg)
 
