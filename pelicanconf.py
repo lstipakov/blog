@@ -19,6 +19,8 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+STATIC_PATHS = ['images',]
+
 # Blogroll
 LINKS = (('Blogini puheenvuorossa', 'http://levstipakov.puheenvuoro.uusisuomi.fi/'),)
 
