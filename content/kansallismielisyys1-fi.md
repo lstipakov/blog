@@ -5,7 +5,7 @@ Tags: Politiikka
 Lang: fi
 Slug: kansallismielisyys1
 
-![](https://raw.githubusercontent.com/lstipakov/blog/master/content/jytkynaattori.jpg)
+![](https://raw.githubusercontent.com/lstipakov/blog/master/content/top_banner.jpg)
 
 Kansallismielisyys sanana herättää kaikenlaisia tunteita. Joidenkin mielestä se tarkoittaa oman kansan asettamista muiden kansojen yläpuolelle. Muille se saattaa tarkoittaa ylpeyttä omasta kansasta, kulttuurista ja identiteetistä.
 
