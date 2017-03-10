@@ -5,7 +5,7 @@ Tags: Politiikka
 Lang: fi
 Slug: politics1
 
-![](https://raw.githubusercontent.com/lstipakov/blog/master/content/jytkynaattori.jpg)
+![](https://raw.githubusercontent.com/lstipakov/blog/master/content/top_banner.jpg)
 
 Hei!
 
