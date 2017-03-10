@@ -6,7 +6,7 @@ Lang: fi
 Slug: oulu1
 share_post: True
 
-![](https://raw.githubusercontent.com/lstipakov/blog/master/content/jytkynaattori.jpg)
+![](https://raw.githubusercontent.com/lstipakov/blog/master/content/top_banner.jpg)
 
 Oulussa on viime vuosina tapahtunut kaikenlaista: 1990-luvun lopussa alkanut IT-alan nousukausi, kultaiset ajat 2000-luvun puolivälissä, sen jälkeen Nokian romahdus ja jättimäiset irtisanomiset, äkilliset rakennemuutokset 2010-luvun alussa. Olen asunut Oulussa vähän yli kuusi vuotta ja näin omin silmin kulta-ajan viimeiset kuukaudet ja kaikki, mitä sen jälkeen on tapahtunut. Onneksi IT-alan myllerrys ei koskettanut minua, vaikka kuten ehkä kaikki muutkin oululaiset, tunnen monia vähemmän onnellisia. Nykyään talouden pohjakosketus näyttää olevan selvästi takana ja toivottavasti elämme uuden nousukauden alussa.
 
