@@ -8,8 +8,8 @@ share_post: True
 
 ![](https://raw.githubusercontent.com/lstipakov/blog/master/content/top_banner.jpg)
 
-Pietarilainen sivusto fontanka.fi teki uutisen venäjänkielisistä kunnallisvaaliehdokkaista. Alla ovat kysymykset ja minun vastaukseni suomeksi.
-http://fontanka.fi/articles/33099/
+Pietarilainen sivusto [fontanka.fi] (http://fontanka.fi/articles/33099/) teki uutisen venäjänkielisistä kunnallisvaaliehdokkaista. Alla ovat kysymykset ja minun vastaukseni suomeksi.
+
 
 #### Miksi olet päättänyt osallistumaan kunnallisvaaleihin? Miksi tämä on sinusta tärkeää?
 
